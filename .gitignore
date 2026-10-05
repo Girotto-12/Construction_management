@@ -4,3 +4,9 @@ node_modules/
 !.env.example
 *.tar.gz
 .sites-runtime/
+.next/
+*.tsbuildinfo
+artifacts/
+desktop.ini
+.vercel/
+supabase/.temp/

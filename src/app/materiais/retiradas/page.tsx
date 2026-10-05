@@ -1,0 +1,1 @@
+import {MaterialWithdrawals} from '@/components/material-withdrawals';export default function Page(){return <MaterialWithdrawals/>;}
